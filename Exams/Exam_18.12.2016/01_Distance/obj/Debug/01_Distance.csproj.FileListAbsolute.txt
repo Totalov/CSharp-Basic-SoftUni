@@ -1,0 +1,12 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\bin\Debug\01_Distance.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\01_Distance\obj\Debug\01_Distance.csprojResolveAssemblyReference.cache

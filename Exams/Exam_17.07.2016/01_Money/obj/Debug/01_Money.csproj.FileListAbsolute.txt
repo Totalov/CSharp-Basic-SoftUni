@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\bin\Debug\01_Money.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\obj\Debug\01_Money.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\bin\Debug\01_Money.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\bin\Debug\01_Money.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\obj\Debug\01_Money.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_17.07.2016\01_Money\obj\Debug\01_Money.pdb

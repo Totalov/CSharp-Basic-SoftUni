@@ -1,0 +1,2 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\20_Task_Class\bin\Debug\20_Task_Class.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\20_Task_Class\bin\Debug\20_Task_Class.exe.config

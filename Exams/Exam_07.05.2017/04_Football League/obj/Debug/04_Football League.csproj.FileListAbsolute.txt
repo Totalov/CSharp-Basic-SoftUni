@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\bin\Debug\04_Football League.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\bin\Debug\04_Football League.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\bin\Debug\04_Football League.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\obj\Debug\04_Football League.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\obj\Debug\04_Football League.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\04_Football League\obj\Debug\04_Football League.pdb

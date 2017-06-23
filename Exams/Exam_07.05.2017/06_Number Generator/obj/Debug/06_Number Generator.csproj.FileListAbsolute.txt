@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\06_Number Generator\bin\Debug\06_Number Generator.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_07.05.2017\06_Number Generator\bin\Debug\06_Number Generator.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_07.05.2017\06_Number Generator\bin\Debug\06_Number Generator.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_07.05.2017\06_Number Generator\obj\Debug\06_Number Generator.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_07.05.2017\06_Number Generator\obj\Debug\06_Number Generator.pdb

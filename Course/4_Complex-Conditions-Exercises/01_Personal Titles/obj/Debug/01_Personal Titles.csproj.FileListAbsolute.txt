@@ -1,0 +1,2 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_4\01_Personal Titles\bin\Debug\01_Personal Titles.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_4\01_Personal Titles\bin\Debug\01_Personal Titles.exe.config

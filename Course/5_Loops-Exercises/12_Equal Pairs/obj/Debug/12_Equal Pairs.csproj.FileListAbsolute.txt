@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\12_Equal Pairs\bin\Debug\12_Equal Pairs.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_5\12_Equal Pairs\bin\Debug\12_Equal Pairs.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_5\12_Equal Pairs\bin\Debug\12_Equal Pairs.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_5\12_Equal Pairs\obj\Debug\12_Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_5\12_Equal Pairs\obj\Debug\12_Equal Pairs.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_5\12_Equal Pairs\obj\Debug\12_Equal Pairs.pdb

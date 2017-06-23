@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\08_Sunglasses\bin\Debug\08_Sunglasses.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\08_Sunglasses\obj\Debug\08_Sunglasses.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\08_Sunglasses\bin\Debug\08_Sunglasses.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\08_Sunglasses\bin\Debug\08_Sunglasses.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\08_Sunglasses\obj\Debug\08_Sunglasses.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\08_Sunglasses\obj\Debug\08_Sunglasses.pdb

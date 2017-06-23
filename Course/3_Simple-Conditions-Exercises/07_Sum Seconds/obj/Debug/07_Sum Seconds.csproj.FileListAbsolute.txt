@@ -1,0 +1,12 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\bin\Debug\07_Sum Seconds.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\07_Sum Seconds\obj\Debug\07_Sum Seconds.csprojResolveAssemblyReference.cache

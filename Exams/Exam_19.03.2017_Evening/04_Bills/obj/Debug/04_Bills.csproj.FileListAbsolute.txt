@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\04_Bills\bin\Debug\04_Bills.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\bin\Debug\04_Bills.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\bin\Debug\04_Bills.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\bin\Debug\04_Bills.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\obj\Debug\04_Bills.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\obj\Debug\04_Bills.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\bin\Debug\04_Bills.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\obj\Debug\04_Bills.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\04_Bills\obj\Debug\04_Bills.pdb

@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\bin\Debug\06_Two Numbers Sum.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\bin\Debug\06_Two Numbers Sum.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\bin\Debug\06_Two Numbers Sum.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\obj\Debug\06_Two Numbers Sum.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\obj\Debug\06_Two Numbers Sum.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\06_Two Numbers Sum\obj\Debug\06_Two Numbers Sum.pdb

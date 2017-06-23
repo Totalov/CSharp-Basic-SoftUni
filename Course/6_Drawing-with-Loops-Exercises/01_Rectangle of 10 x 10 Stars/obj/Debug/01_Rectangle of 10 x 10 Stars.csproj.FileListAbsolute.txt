@@ -1,0 +1,8 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\bin\Debug\01_Rectangle of 10 x 10 Stars.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\bin\Debug\01_Rectangle of 10 x 10 Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\bin\Debug\01_Rectangle of 10 x 10 Stars.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\obj\Debug\01_Rectangle of 10 x 10 Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\obj\Debug\01_Rectangle of 10 x 10 Stars.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\bin\Debug\01_Rectangle of 10 x 10 Stars.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\obj\Debug\01_Rectangle of 10 x 10 Stars.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\01_Rectangle of 10 x 10 Stars\obj\Debug\01_Rectangle of 10 x 10 Stars.pdb

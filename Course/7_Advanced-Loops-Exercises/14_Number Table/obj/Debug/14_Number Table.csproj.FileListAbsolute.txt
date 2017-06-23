@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\14_Number Table\bin\Debug\14_Number Table.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\14_Number Table\bin\Debug\14_Number Table.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\14_Number Table\bin\Debug\14_Number Table.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\14_Number Table\obj\Debug\14_Number Table.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\14_Number Table\obj\Debug\14_Number Table.pdb

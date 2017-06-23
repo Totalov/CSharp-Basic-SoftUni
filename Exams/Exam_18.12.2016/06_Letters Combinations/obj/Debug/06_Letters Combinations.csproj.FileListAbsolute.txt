@@ -1,0 +1,5 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\06_Letters Combinations\bin\Debug\06_Letters Combinations.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\06_Letters Combinations\bin\Debug\06_Letters Combinations.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\06_Letters Combinations\bin\Debug\06_Letters Combinations.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\06_Letters Combinations\obj\Debug\06_Letters Combinations.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\06_Letters Combinations\obj\Debug\06_Letters Combinations.pdb

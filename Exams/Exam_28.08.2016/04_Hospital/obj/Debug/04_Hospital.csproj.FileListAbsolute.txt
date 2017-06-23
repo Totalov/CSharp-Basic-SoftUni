@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\bin\Debug\04_Hospital.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\bin\Debug\04_Hospital.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\bin\Debug\04_Hospital.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\obj\Debug\04_Hospital.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\obj\Debug\04_Hospital.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\04_Hospital\obj\Debug\04_Hospital.pdb

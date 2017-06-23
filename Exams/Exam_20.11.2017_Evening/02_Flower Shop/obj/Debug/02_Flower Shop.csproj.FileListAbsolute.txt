@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\02_Flower Shop\bin\Debug\02_Flower Shop.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\02_Flower Shop\bin\Debug\02_Flower Shop.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\02_Flower Shop\bin\Debug\02_Flower Shop.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\02_Flower Shop\obj\Debug\02_Flower Shop.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\02_Flower Shop\obj\Debug\02_Flower Shop.pdb

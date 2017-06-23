@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\bin\Debug\05_Crown.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\bin\Debug\05_Crown.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\bin\Debug\05_Crown.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\obj\Debug\05_Crown.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\obj\Debug\05_Crown.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\05_Crown\obj\Debug\05_Crown.pdb

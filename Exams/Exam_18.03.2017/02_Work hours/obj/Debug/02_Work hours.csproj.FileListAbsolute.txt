@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\bin\Debug\02_Work hours.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\bin\Debug\02_Work hours.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\bin\Debug\02_Work hours.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\obj\Debug\02_Work hours.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\obj\Debug\02_Work hours.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\02_Work hours\obj\Debug\02_Work hours.pdb

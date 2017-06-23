@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\bin\Debug\07_Greatest Common Divisor (CGD).exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\bin\Debug\07_Greatest Common Divisor (CGD).exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\bin\Debug\07_Greatest Common Divisor (CGD).pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\obj\Debug\07_Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\obj\Debug\07_Greatest Common Divisor (CGD).exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\07_Greatest Common Divisor (CGD)\obj\Debug\07_Greatest Common Divisor (CGD).pdb

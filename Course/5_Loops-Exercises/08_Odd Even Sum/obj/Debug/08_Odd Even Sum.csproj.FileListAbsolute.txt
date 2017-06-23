@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\bin\Debug\08_Odd Even Sum.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\bin\Debug\08_Odd Even Sum.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\bin\Debug\08_Odd Even Sum.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\obj\Debug\08_Odd Even Sum.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\obj\Debug\08_Odd Even Sum.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\08_Odd Even Sum\obj\Debug\08_Odd Even Sum.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\08_Odd Even Sum\bin\Debug\08_Odd Even Sum.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\08_Odd Even Sum\obj\Debug\08_Odd Even Sum.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\08_Odd Even Sum\obj\Debug\08_Odd Even Sum.pdb

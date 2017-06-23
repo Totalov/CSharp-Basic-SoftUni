@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\11_Enter Even Number\bin\Debug\11_Enter Even Number.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\11_Enter Even Number\bin\Debug\11_Enter Even Number.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\11_Enter Even Number\bin\Debug\11_Enter Even Number.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\11_Enter Even Number\obj\Debug\11_Enter Even Number.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\11_Enter Even Number\obj\Debug\11_Enter Even Number.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\11_Enter Even Number\obj\Debug\11_Enter Even Number.pdb

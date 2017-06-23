@@ -1,0 +1,6 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Debug\04_Game Of Intervals.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Debug\04_Game Of Intervals.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Debug\04_Game Of Intervals.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Debug\04_Game Of Intervals.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Debug\04_Game Of Intervals.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Debug\04_Game Of Intervals.pdb

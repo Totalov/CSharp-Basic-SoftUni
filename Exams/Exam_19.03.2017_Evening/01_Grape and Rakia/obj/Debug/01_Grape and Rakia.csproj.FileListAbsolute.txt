@@ -1,0 +1,15 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\bin\Debug\01_Grape and Rakia.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\01_Grape and Rakia\obj\Debug\01_Grape and Rakia.pdb

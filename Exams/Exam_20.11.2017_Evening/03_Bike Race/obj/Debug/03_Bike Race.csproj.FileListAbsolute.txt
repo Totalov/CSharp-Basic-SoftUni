@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\bin\Debug\03_Bike Race.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\bin\Debug\03_Bike Race.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\bin\Debug\03_Bike Race.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\obj\Debug\03_Bike Race.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\obj\Debug\03_Bike Race.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\03_Bike Race\obj\Debug\03_Bike Race.pdb

@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\bin\Debug\01_Fishland.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\bin\Debug\01_Fishland.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\bin\Debug\01_Fishland.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\obj\Debug\01_Fishland.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\obj\Debug\01_Fishland.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\01_Fishland\obj\Debug\01_Fishland.pdb

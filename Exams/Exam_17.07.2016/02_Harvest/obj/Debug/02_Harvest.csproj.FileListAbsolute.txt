@@ -1,0 +1,5 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\02_Harvest\bin\Debug\02_Harvest.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\02_Harvest\bin\Debug\02_Harvest.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\02_Harvest\bin\Debug\02_Harvest.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\02_Harvest\obj\Debug\02_Harvest.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\02_Harvest\obj\Debug\02_Harvest.pdb

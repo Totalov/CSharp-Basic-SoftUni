@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\bin\Debug\01_Dog House.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\bin\Debug\01_Dog House.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\bin\Debug\01_Dog House.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\obj\Debug\01_Dog House.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\obj\Debug\01_Dog House.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\01_Dog House\obj\Debug\01_Dog House.pdb

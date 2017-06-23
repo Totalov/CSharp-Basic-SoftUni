@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\bin\Debug\14_Time + 15 Minutes.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\bin\Debug\14_Time + 15 Minutes.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\bin\Debug\14_Time + 15 Minutes.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\obj\Debug\14_Time + 15 Minutes.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\obj\Debug\14_Time + 15 Minutes.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\obj\Debug\14_Time + 15 Minutes.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\bin\Debug\14_Time + 15 Minutes.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\obj\Debug\14_Time + 15 Minutes.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\14_Time + 15 Minutes\obj\Debug\14_Time + 15 Minutes.pdb

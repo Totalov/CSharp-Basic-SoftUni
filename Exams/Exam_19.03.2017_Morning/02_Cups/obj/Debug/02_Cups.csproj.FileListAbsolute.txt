@@ -1,0 +1,5 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\02_Cups\bin\Debug\02_Cups.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\02_Cups\bin\Debug\02_Cups.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\02_Cups\bin\Debug\02_Cups.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\02_Cups\obj\Debug\02_Cups.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\02_Cups\obj\Debug\02_Cups.pdb

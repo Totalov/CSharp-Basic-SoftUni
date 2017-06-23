@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\bin\Debug\08_Trade Comissions.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\bin\Debug\08_Trade Comissions.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\bin\Debug\08_Trade Comissions.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\obj\Debug\08_Trade Comissions.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\obj\Debug\08_Trade Comissions.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\obj\Debug\08_Trade Comissions.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\bin\Debug\08_Trade Comissions.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\obj\Debug\08_Trade Comissions.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_4\08_Trade Comissions\obj\Debug\08_Trade Comissions.pdb

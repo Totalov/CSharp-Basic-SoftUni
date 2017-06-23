@@ -1,0 +1,5 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\03_Latin Letters\bin\Debug\03_Latin Letters.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\03_Latin Letters\bin\Debug\03_Latin Letters.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\03_Latin Letters\bin\Debug\03_Latin Letters.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\03_Latin Letters\obj\Debug\03_Latin Letters.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\03_Latin Letters\obj\Debug\03_Latin Letters.pdb

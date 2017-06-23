@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\obj\Debug\16_Number 0...100 to Text.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\bin\Debug\_16_Number_0._._._100_to_Text.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\16_Number 0...100 to Text\obj\Debug\_16_Number_0._._._100_to_Text.pdb

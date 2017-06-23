@@ -1,0 +1,8 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\bin\Debug\12_Speed Info.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\bin\Debug\12_Speed Info.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\bin\Debug\12_Speed Info.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\obj\Debug\12_Speed Info.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\obj\Debug\12_Speed Info.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\bin\Debug\12_Speed Info.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\obj\Debug\12_Speed Info.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\12_Speed Info\obj\Debug\12_Speed Info.pdb

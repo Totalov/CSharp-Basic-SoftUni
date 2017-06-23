@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\bin\Debug\01_Excellent Result.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\bin\Debug\01_Excellent Result.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\bin\Debug\01_Excellent Result.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\obj\Debug\01_Excellent Result.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\obj\Debug\01_Excellent Result.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\01_Excellent Result\obj\Debug\01_Excellent Result.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\01_Excellent Result\bin\Debug\01_Excellent Result.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\01_Excellent Result\obj\Debug\01_Excellent Result.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\01_Excellent Result\obj\Debug\01_Excellent Result.pdb

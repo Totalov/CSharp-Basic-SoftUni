@@ -1,0 +1,5 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\Task_Class\bin\Debug\Task_Class.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\Task_Class\obj\Debug\Task_Class.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\Task_Class\obj\Debug\Task_Class.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\Task_Class\bin\Debug\Task_Class.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\Task_Class\bin\Debug\Task_Class.pdb

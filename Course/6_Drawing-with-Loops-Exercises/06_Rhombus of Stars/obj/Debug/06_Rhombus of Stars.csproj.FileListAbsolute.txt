@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\06_Rhombus of Stars\bin\Debug\06_Rhombus of Stars.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\bin\Debug\06_Rhombus of Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\bin\Debug\06_Rhombus of Stars.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\obj\Debug\06_Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\obj\Debug\06_Rhombus of Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\obj\Debug\06_Rhombus of Stars.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\bin\Debug\06_Rhombus of Stars.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\obj\Debug\06_Rhombus of Stars.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\06_Rhombus of Stars\obj\Debug\06_Rhombus of Stars.pdb

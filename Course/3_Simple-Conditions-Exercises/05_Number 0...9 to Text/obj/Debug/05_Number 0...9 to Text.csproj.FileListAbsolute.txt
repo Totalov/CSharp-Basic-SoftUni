@@ -1,0 +1,8 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\bin\Debug\_05_Number_0._._._9_to_Text.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\bin\Debug\_05_Number_0._._._9_to_Text.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\bin\Debug\_05_Number_0._._._9_to_Text.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\obj\Debug\_05_Number_0._._._9_to_Text.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\obj\Debug\_05_Number_0._._._9_to_Text.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\bin\Debug\_05_Number_0._._._9_to_Text.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\obj\Debug\_05_Number_0._._._9_to_Text.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\05_Number 0...9 to Text\obj\Debug\_05_Number_0._._._9_to_Text.pdb

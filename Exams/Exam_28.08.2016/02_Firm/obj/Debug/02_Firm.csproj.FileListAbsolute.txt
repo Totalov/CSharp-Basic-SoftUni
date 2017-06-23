@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\02_Firm\bin\Debug\02_Firm.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\02_Firm\bin\Debug\02_Firm.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\02_Firm\bin\Debug\02_Firm.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\02_Firm\obj\Debug\02_Firm.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\02_Firm\obj\Debug\02_Firm.pdb

@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\bin\Debug\_01_Numbers_1._._.N_with_Step_3.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\bin\Debug\_01_Numbers_1._._.N_with_Step_3.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\bin\Debug\_01_Numbers_1._._.N_with_Step_3.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\obj\Debug\01_Numbers 1...N with Step 3.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\obj\Debug\_01_Numbers_1._._.N_with_Step_3.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\01_Numbers 1...N with Step 3\obj\Debug\_01_Numbers_1._._.N_with_Step_3.pdb

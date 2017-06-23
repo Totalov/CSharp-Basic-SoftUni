@@ -1,0 +1,5 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\10_Animal Type\bin\Debug\10_Animal Type.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\10_Animal Type\bin\Debug\10_Animal Type.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\10_Animal Type\bin\Debug\10_Animal Type.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\10_Animal Type\obj\Debug\10_Animal Type.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\10_Animal Type\obj\Debug\10_Animal Type.pdb

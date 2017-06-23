@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\02_Numbers N...1\bin\Debug\_02_Numbers_N._._._1.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\02_Numbers N...1\bin\Debug\_02_Numbers_N._._._1.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\02_Numbers N...1\bin\Debug\_02_Numbers_N._._._1.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\02_Numbers N...1\obj\Debug\_02_Numbers_N._._._1.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\02_Numbers N...1\obj\Debug\_02_Numbers_N._._._1.pdb

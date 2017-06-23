@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\06_Number in Range [1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\06_Number in Range [1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\06_Number in Range [1...100]\bin\Debug\_06_Number_in_Range__1._._._100_.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\06_Number in Range [1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\06_Number in Range [1...100]\obj\Debug\_06_Number_in_Range__1._._._100_.pdb

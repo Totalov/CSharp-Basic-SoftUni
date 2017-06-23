@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\bin\Debug\01_House Painting.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\bin\Debug\01_House Painting.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\bin\Debug\01_House Painting.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\obj\Debug\01_House Painting.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\obj\Debug\01_House Painting.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\obj\Debug\01_House Painting.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\bin\Debug\01_House Painting.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\obj\Debug\01_House Painting.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Morning\01_House Painting\obj\Debug\01_House Painting.pdb

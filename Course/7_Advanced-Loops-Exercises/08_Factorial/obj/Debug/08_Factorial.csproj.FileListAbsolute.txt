@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\08_Factorial\bin\Debug\08_Factorial.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\08_Factorial\bin\Debug\08_Factorial.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\08_Factorial\bin\Debug\08_Factorial.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\08_Factorial\obj\Debug\08_Factorial.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\08_Factorial\obj\Debug\08_Factorial.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\08_Factorial\obj\Debug\08_Factorial.csprojResolveAssemblyReference.cache

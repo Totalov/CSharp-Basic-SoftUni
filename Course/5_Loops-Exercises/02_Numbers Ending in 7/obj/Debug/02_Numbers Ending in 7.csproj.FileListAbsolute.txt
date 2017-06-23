@@ -1,0 +1,8 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\bin\Debug\02_Numbers Ending in 7.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\bin\Debug\02_Numbers Ending in 7.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\bin\Debug\02_Numbers Ending in 7.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\obj\Debug\02_Numbers Ending in 7.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\obj\Debug\02_Numbers Ending in 7.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\bin\Debug\02_Numbers Ending in 7.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\obj\Debug\02_Numbers Ending in 7.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\02_Numbers Ending in 7\obj\Debug\02_Numbers Ending in 7.pdb

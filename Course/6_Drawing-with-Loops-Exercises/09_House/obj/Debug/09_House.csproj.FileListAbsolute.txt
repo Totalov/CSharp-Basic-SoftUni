@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\09_House\bin\Debug\09_House.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\bin\Debug\09_House.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\bin\Debug\09_House.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\obj\Debug\09_House.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\obj\Debug\09_House.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\obj\Debug\09_House.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\bin\Debug\09_House.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\obj\Debug\09_House.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_6\09_House\obj\Debug\09_House.pdb

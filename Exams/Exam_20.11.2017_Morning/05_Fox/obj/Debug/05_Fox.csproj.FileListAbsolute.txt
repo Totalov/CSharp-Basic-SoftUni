@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\bin\Debug\05_Fox.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\bin\Debug\05_Fox.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\bin\Debug\05_Fox.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\obj\Debug\05_Fox.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\obj\Debug\05_Fox.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Morning\05_Fox\obj\Debug\05_Fox.pdb

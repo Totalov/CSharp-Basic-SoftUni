@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\bin\Debug\09_Vowels Sum.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\bin\Debug\09_Vowels Sum.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\bin\Debug\09_Vowels Sum.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\obj\Debug\09_Vowels Sum.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\obj\Debug\09_Vowels Sum.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\09_Vowels Sum\obj\Debug\09_Vowels Sum.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\09_Vowels Sum\bin\Debug\09_Vowels Sum.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\09_Vowels Sum\obj\Debug\09_Vowels Sum.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\09_Vowels Sum\obj\Debug\09_Vowels Sum.pdb

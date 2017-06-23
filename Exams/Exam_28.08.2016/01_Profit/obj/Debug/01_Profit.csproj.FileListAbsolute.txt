@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\bin\Debug\01_Profit.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\bin\Debug\01_Profit.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\bin\Debug\01_Profit.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\obj\Debug\01_Profit.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\obj\Debug\01_Profit.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_28.08.2016\01_Profit\obj\Debug\01_Profit.pdb

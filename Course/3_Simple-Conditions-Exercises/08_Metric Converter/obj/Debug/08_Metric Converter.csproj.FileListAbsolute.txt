@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\bin\Debug\08_Metric Converter.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\bin\Debug\08_Metric Converter.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\bin\Debug\08_Metric Converter.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\obj\Debug\08_Metric Converter.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\obj\Debug\08_Metric Converter.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\obj\Debug\08_Metric Converter.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\bin\Debug\08_Metric Converter.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\obj\Debug\08_Metric Converter.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\08_Metric Converter\obj\Debug\08_Metric Converter.pdb

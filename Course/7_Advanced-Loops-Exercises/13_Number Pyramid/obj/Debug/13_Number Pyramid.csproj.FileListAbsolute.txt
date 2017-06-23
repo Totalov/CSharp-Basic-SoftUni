@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\13_Number Pyramid\bin\Debug\13_Number Pyramid.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\13_Number Pyramid\bin\Debug\13_Number Pyramid.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\13_Number Pyramid\bin\Debug\13_Number Pyramid.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\13_Number Pyramid\obj\Debug\13_Number Pyramid.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\13_Number Pyramid\obj\Debug\13_Number Pyramid.pdb

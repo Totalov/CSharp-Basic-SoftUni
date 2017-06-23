@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\02_Toy Shop\bin\Debug\02_Toy Shop.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\02_Toy Shop\bin\Debug\02_Toy Shop.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\02_Toy Shop\bin\Debug\02_Toy Shop.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\02_Toy Shop\obj\Debug\02_Toy Shop.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\02_Toy Shop\obj\Debug\02_Toy Shop.pdb

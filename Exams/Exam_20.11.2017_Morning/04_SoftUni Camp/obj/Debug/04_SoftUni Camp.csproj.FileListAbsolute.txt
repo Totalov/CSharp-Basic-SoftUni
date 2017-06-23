@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\bin\Debug\04_SoftUni Camp.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\bin\Debug\04_SoftUni Camp.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\bin\Debug\04_SoftUni Camp.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\obj\Debug\04_SoftUni Camp.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\obj\Debug\04_SoftUni Camp.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\04_SoftUni Camp\obj\Debug\04_SoftUni Camp.pdb

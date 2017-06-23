@@ -1,0 +1,12 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\bin\Release\04_Game Of Intervals.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\04_Game Of Intervals\obj\Release\04_Game Of Intervals.csprojResolveAssemblyReference.cache

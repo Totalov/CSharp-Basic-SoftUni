@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\bin\Debug\02_Pets.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\bin\Debug\02_Pets.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\bin\Debug\02_Pets.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\obj\Debug\02_Pets.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\obj\Debug\02_Pets.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Morning\02_Pets\obj\Debug\02_Pets.pdb

@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\bin\Debug\03_Car To Go.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\bin\Debug\03_Car To Go.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\bin\Debug\03_Car To Go.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\obj\Debug\03_Car To Go.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\obj\Debug\03_Car To Go.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_18.03.2017\03_Car To Go\obj\Debug\03_Car To Go.pdb

@@ -1,0 +1,5 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\07_Christmas Tree\bin\Debug\07_Christmas Tree.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\07_Christmas Tree\bin\Debug\07_Christmas Tree.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\07_Christmas Tree\bin\Debug\07_Christmas Tree.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\07_Christmas Tree\obj\Debug\07_Christmas Tree.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\07_Christmas Tree\obj\Debug\07_Christmas Tree.pdb

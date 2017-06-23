@@ -1,0 +1,2 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_4\06_Point on Rectangle Border\bin\Debug\06_Point on Rectangle Border.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_4\06_Point on Rectangle Border\bin\Debug\06_Point on Rectangle Border.exe.config

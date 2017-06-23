@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\bin\Debug\20_Tasks_Class.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\bin\Debug\20_Tasks_Class.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\bin\Debug\20_Tasks_Class.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\obj\Debug\20_Tasks_Class.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\obj\Debug\20_Tasks_Class.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\20_Tasks_Class\obj\Debug\20_Tasks_Class.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\20_Tasks_Class\bin\Debug\20_Tasks_Class.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\20_Tasks_Class\obj\Debug\20_Tasks_Class.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\20_Tasks_Class\obj\Debug\20_Tasks_Class.pdb

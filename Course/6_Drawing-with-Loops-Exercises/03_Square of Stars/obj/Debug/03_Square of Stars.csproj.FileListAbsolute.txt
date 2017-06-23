@@ -1,0 +1,5 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_6\03_Square of Stars\bin\Debug\03_Square of Stars.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\03_Square of Stars\bin\Debug\03_Square of Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\03_Square of Stars\bin\Debug\03_Square of Stars.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\03_Square of Stars\obj\Debug\03_Square of Stars.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Lesson_6\03_Square of Stars\obj\Debug\03_Square of Stars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\bin\Debug\03_Match Tickets.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\bin\Debug\03_Match Tickets.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\bin\Debug\03_Match Tickets.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\obj\Debug\03_Match Tickets.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\obj\Debug\03_Match Tickets.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_17.07.2016\03_Match Tickets\obj\Debug\03_Match Tickets.pdb

@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\10_Check Prime\bin\Debug\10_Check Prime.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\10_Check Prime\bin\Debug\10_Check Prime.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\10_Check Prime\bin\Debug\10_Check Prime.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\10_Check Prime\obj\Debug\10_Check Prime.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\10_Check Prime\obj\Debug\10_Check Prime.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\10_Check Prime\obj\Debug\10_Check Prime.pdb

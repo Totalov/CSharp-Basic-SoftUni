@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\bin\Debug\04_Logistics.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\bin\Debug\04_Logistics.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\bin\Debug\04_Logistics.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\obj\Debug\04_Logistics.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\obj\Debug\04_Logistics.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\04_Logistics\obj\Debug\04_Logistics.pdb

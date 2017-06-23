@@ -1,0 +1,5 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\02_Excellent or Not\bin\Debug\02_Excellent or Not.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\02_Excellent or Not\bin\Debug\02_Excellent or Not.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\02_Excellent or Not\bin\Debug\02_Excellent or Not.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\02_Excellent or Not\obj\Debug\02_Excellent or Not.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\02_Excellent or Not\obj\Debug\02_Excellent or Not.pdb

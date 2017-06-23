@@ -1,0 +1,8 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\bin\Debug\01_Numbers from 1 to 100.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\bin\Debug\01_Numbers from 1 to 100.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\bin\Debug\01_Numbers from 1 to 100.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\obj\Debug\01_Numbers from 1 to 100.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\obj\Debug\01_Numbers from 1 to 100.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\bin\Debug\01_Numbers from 1 to 100.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\obj\Debug\01_Numbers from 1 to 100.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\01_Numbers from 1 to 100\obj\Debug\01_Numbers from 1 to 100.pdb

@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\bin\Debug\05_Axe.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\obj\Debug\05_Axe.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\bin\Debug\05_Axe.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\bin\Debug\05_Axe.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\obj\Debug\05_Axe.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_28.08.2016\05_Axe\obj\Debug\05_Axe.pdb

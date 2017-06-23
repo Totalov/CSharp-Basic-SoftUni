@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Lesson_7\03_Powers of Two\bin\Debug\03_Powers of Two.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\03_Powers of Two\bin\Debug\03_Powers of Two.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\03_Powers of Two\bin\Debug\03_Powers of Two.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\03_Powers of Two\obj\Debug\03_Powers of Two.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_7\03_Powers of Two\obj\Debug\03_Powers of Two.pdb

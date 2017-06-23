@@ -1,0 +1,6 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\bin\Debug\01_House Price.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\bin\Debug\01_House Price.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\bin\Debug\01_House Price.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\obj\Debug\01_House Price.csprojResolveAssemblyReference.cache
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\obj\Debug\01_House Price.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_20.11.2017_Evening\01_House Price\obj\Debug\01_House Price.pdb

@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\bin\Debug\10_Half Sum Element.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\bin\Debug\10_Half Sum Element.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\bin\Debug\10_Half Sum Element.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\obj\Debug\10_Half Sum Element.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\obj\Debug\10_Half Sum Element.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\10_Half Sum Element\obj\Debug\10_Half Sum Element.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\10_Half Sum Element\bin\Debug\10_Half Sum Element.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\10_Half Sum Element\obj\Debug\10_Half Sum Element.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\10_Half Sum Element\obj\Debug\10_Half Sum Element.pdb

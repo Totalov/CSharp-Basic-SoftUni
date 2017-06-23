@@ -1,0 +1,5 @@
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\03_School Camp\bin\Debug\03_School Camp.exe.config
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\03_School Camp\bin\Debug\03_School Camp.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\03_School Camp\bin\Debug\03_School Camp.pdb
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\03_School Camp\obj\Debug\03_School Camp.exe
+c:\users\totalov\documents\visual studio 2015\Projects\Exam_07.05.2017\03_School Camp\obj\Debug\03_School Camp.pdb

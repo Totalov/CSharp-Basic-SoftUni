@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\bin\Release\05_SoftUni Logo.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\bin\Release\05_SoftUni Logo.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\bin\Release\05_SoftUni Logo.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\obj\Release\05_SoftUni Logo.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\obj\Release\05_SoftUni Logo.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.03.2017\05_SoftUni Logo\obj\Release\05_SoftUni Logo.pdb

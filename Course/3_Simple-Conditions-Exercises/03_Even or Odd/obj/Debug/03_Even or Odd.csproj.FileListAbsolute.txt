@@ -1,0 +1,8 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\03_Even or Odd\bin\Debug\03_Even or Odd.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\03_Even or Odd\bin\Debug\03_Even or Odd.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\03_Even or Odd\bin\Debug\03_Even or Odd.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\03_Even or Odd\obj\Debug\03_Even or Odd.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_3\03_Even or Odd\obj\Debug\03_Even or Odd.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\03_Even or Odd\bin\Debug\03_Even or Odd.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\03_Even or Odd\obj\Debug\03_Even or Odd.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_3\03_Even or Odd\obj\Debug\03_Even or Odd.pdb

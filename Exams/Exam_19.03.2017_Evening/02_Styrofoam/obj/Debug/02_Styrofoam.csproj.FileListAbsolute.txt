@@ -1,0 +1,9 @@
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\bin\Debug\02_Styrofoam.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\bin\Debug\02_Styrofoam.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\bin\Debug\02_Styrofoam.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\obj\Debug\02_Styrofoam.csprojResolveAssemblyReference.cache
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\obj\Debug\02_Styrofoam.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017\02_Styrofoam\obj\Debug\02_Styrofoam.pdb
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\02_Styrofoam\bin\Debug\02_Styrofoam.exe.config
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\02_Styrofoam\obj\Debug\02_Styrofoam.exe
+C:\Stefan\Documents\Visual Studio 2015\Projects\Exam_19.03.2017_Evening\02_Styrofoam\obj\Debug\02_Styrofoam.pdb

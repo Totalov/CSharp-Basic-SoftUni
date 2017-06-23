@@ -1,0 +1,6 @@
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\bin\Debug\03_Vacation.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\bin\Debug\03_Vacation.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\bin\Debug\03_Vacation.pdb
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\obj\Debug\03_Vacation.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\obj\Debug\03_Vacation.exe
+c:\stefan\documents\visual studio 2015\Projects\Exam_19.03.2017_Morning\03_Vacation\obj\Debug\03_Vacation.pdb

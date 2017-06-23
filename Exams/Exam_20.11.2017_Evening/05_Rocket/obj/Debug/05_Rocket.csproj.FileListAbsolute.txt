@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\bin\Debug\05_Rocket.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\obj\Debug\05_Rocket.csprojResolveAssemblyReference.cache
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\bin\Debug\05_Rocket.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\bin\Debug\05_Rocket.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\obj\Debug\05_Rocket.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_20.11.2017_Evening\05_Rocket\obj\Debug\05_Rocket.pdb

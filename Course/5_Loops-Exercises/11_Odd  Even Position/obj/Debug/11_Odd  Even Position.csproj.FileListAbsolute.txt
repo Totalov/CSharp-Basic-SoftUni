@@ -1,0 +1,9 @@
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\bin\Debug\11_Odd  Even Position.exe.config
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\bin\Debug\11_Odd  Even Position.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\bin\Debug\11_Odd  Even Position.pdb
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\obj\Debug\11_Odd  Even Position.csprojResolveAssemblyReference.cache
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\obj\Debug\11_Odd  Even Position.exe
+c:\stefan\documents\visual studio 2015\Projects\Lesson_5\11_Odd  Even Position\obj\Debug\11_Odd  Even Position.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\11_Odd  Even Position\bin\Debug\11_Odd  Even Position.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\11_Odd  Even Position\obj\Debug\11_Odd  Even Position.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Lesson_5\11_Odd  Even Position\obj\Debug\11_Odd  Even Position.pdb

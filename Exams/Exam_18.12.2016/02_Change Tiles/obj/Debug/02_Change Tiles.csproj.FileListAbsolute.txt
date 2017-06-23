@@ -1,0 +1,6 @@
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\bin\Debug\02_Change Tiles.exe.config
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\bin\Debug\02_Change Tiles.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\bin\Debug\02_Change Tiles.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\obj\Debug\02_Change Tiles.exe
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\obj\Debug\02_Change Tiles.pdb
+C:\Users\Totalov\Documents\Visual Studio 2015\Projects\Exam_18.12.2016\02_Change Tiles\obj\Debug\02_Change Tiles.csprojResolveAssemblyReference.cache
